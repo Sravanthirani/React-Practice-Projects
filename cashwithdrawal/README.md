@@ -1,70 +1,65 @@
-# Getting Started with Create React App
+# Withdraw Money 💰  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple React application that allows users to withdraw money from their account and view the updated balance.  
 
-## Available Scripts
+## 🚀 Live Demo  
+🔗 [Withdraw Money](https://Withdrawmoneyy.ccbp.tech)  
 
-In the project directory, you can run:
+## 📌 Features  
+- Displays current account balance  
+- Provides different withdrawal amounts  
+- Updates the balance dynamically upon withdrawal  
+- Responsive and user-friendly UI  
 
-### `npm start`
+## 🛠️ Technologies Used  
+- React.js  
+- JavaScript  
+- HTML  
+- CSS  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 📂 Folder Structure  
+```  
+withdraw-money/  
+│── src/  
+│   │── components/  
+│   │   ├── CashWithdrawal
+│   │         ├── index.js
+|   |         ├── index.css
+|   |   ├── DenominationItem  
+│   │         ├── index.js
+|   |         ├── index.css
+│   │── App.js  
+│   │── index.js  
+│── public/  
+│── package.json  
+│── README.md  
+```  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🏗️ How to Run Locally  
+1. Clone the repository:  
+   ```sh  
+   git clone https://github.com/your-username/withdraw-money.git  
+   ```  
+2. Navigate to the project folder:  
+   ```sh  
+   cd withdraw-money  
+   ```  
+3. Install dependencies:  
+   ```sh  
+   npm install  
+   ```  
+4. Start the development server:  
+   ```sh  
+   npm start  
+   ```  
 
-### `npm test`
+## 📷 Screenshot  
+![Withdraw Money](https://github.com/user-attachments/assets/8c2ea90e-37b3-4ba3-85e1-1d15a4fc2a04)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## 📜 License  
+This project is open-source and available under the MIT License.  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---  
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+👩‍💻 **Developed by Sravanthi Rani**
