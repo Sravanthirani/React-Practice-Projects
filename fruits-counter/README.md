@@ -54,9 +54,3 @@ fruits-counter/
 ![Fruits Counter](https://github.com/user-attachments/assets/8116ccba-69e7-4f75-b213-f7fb224147bc)
 
 
-## 📜 License  
-This project is open-source and available under the MIT License.  
-
----  
-
-👩‍💻 **Developed by Sravanthi Rani**
